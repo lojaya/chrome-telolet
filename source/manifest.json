@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Telolet",
+  "description": "7.14% chance of telolet every time you load page.",
+  "version": "1.0",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["telolet.js"],
+      "css": ["telolet.css"]
+    }
+  ],
+  "permissions" : [
+    "declarativeContent",
+    "activeTab"
+  ],
+  "web_accessible_resources": ["telolet.png", "telolet.m4a"],
+  "homepage_url": "https://iksandi.com"
+}
