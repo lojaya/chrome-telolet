@@ -2,9 +2,10 @@
 7.14% chance of telolet every time you load a page.
 
 # how to install
-1. download [telolet.crx](https://github.com/lojaya/chrome-telolet/raw/master/telolet.crx)
-2. open [chrome://extensions](chrome://extensions)
-3. then drag-n-drop telolet.crx there.
+1. download [telolet.crx](https://github.com/lojaya/chrome-telolet/raw/master/telolet.crx).
+2. open <a href="chrome://extensions">chrome://extensions</a>.
+3. then drag-n-drop the **telolet.crx** there.
+4. chrome web store is coming soon..
 
 # why?
 because, why not?
