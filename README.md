@@ -2,14 +2,7 @@
 7.14% chance of telolet every time you load a page.
 
 # how to install
-1. download it here [https://chrome.google.com/webstore/detail/telolet/hihppjgjebkaadkalgiipaaokogbjbok?hl=en](https://chrome.google.com/webstore/detail/telolet/hihppjgjebkaadkalgiipaaokogbjbok?hl=en)
-
-or
-
-1. download [telolet.crx](https://github.com/lojaya/chrome-telolet/raw/master/telolet.crx).
-2. open <a href="chrome://extensions">chrome://extensions</a> or open **More tools > Extensions**.<br/>![alt text](https://github.com/lojaya/chrome-telolet/raw/master/source/where.png)
-3. then drag-n-drop the **telolet.crx** there.
-4. **publishing at chrome web store is in progress..**
+install it from here [https://chrome.google.com/webstore/detail/telolet/hihppjgjebkaadkalgiipaaokogbjbok?hl=en](https://chrome.google.com/webstore/detail/telolet/hihppjgjebkaadkalgiipaaokogbjbok?hl=en)
 
 # why?
 because, why not?
